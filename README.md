@@ -1,4 +1,4 @@
-# Fórum
+<h1 align="center"> Fórum </h1>
 
 ---
 
