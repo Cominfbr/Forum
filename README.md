@@ -13,6 +13,8 @@
 
 # Introdução
 
+# Como Participar
+
 ---
 
 <p align="center">
@@ -20,3 +22,11 @@
 </p>
 
 ---
+
+# Discussões
+
+# Vantagens para o seu perfil
+
+# Como receber Atualizações
+
+# Código de Conduta
