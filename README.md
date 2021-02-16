@@ -3,17 +3,11 @@
 ## Sumário
 
 - [Introdução](#Introdução)
-
-- [Como Participar](#Como Participar)
- 
+- [Como Participar](#Como-Participar)
 - [Discussões](#Discussões) 
-
-- [Vantagens para o Perfil](#Vantagens para o seu perfil)
- 
-- [Como receber atualizações](#Como receber atualizações) 
-
-- [Código de Conduta](#Código de Conduta) 
-
+- [Vantagens para o Perfil](#Vantagens-para-o-seu-perfil)
+- [Como receber atualizações](#Como-receber-atualizações) 
+- [Código de Conduta](#Código-de-Conduta) 
 ---
 
 # Introdução
