@@ -29,4 +29,4 @@
 ---
 ## Licença
 
-[GNU General Public](https://github.com/Cominfbr/forum/LICENSE) - © 2020 - CominfBR 
+[GNU General Public](https://github.com/Cominfbr/forum/blob/Master/LICENSE) - © 2020 - CominfBR 
