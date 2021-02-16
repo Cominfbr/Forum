@@ -25,3 +25,8 @@
 # Como receber Atualizações
 
 # Código de Conduta
+
+---
+## Licença
+
+[GNU General Public](https://github.com/Cominfbr/forum/LICENSE) - © 2020 - CominfBR 
