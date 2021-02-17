@@ -18,7 +18,7 @@ Ele tem como 2° objetivo a comunicação mais aberta e transparente com a organ
 
 > **Disclaimer:** _As opiniões aqui públicadas são inteiramente responsabilidade de seus autores e não refletem, necessariamente, no posicionamento da organização._
 
-Este fórum é baseado em 3 projetos
+Este fórum é baseado em 3 projetos:
 
 - [FrontendBR/forum](https://github.com/frontendbr/forum)
 - [Training-Center/forum](https://github.com/training-center/forum)
