@@ -40,7 +40,7 @@ Todas as discussões são bem-vindas, se for discutir/perguntar procure formular
 # Vantagens para o seu perfil
 
 Seu perfil no Github mostrará quantas discussões você já respondeu, isso diz o seu engajamento na comunidade open-source, e você será lembrado nas discussões por haverá um Ranking de quem respondeu mais e foi marcada como correta.
-<img align="center" with="300" height="350" src="https://github.com/Cominfbr/forum/blob/Master/20210217_112752.jpg">
+<img align="center" with="300" height="280" src="https://github.com/Cominfbr/forum/blob/Master/20210217_112752.jpg">
 
 # Como receber Atualizações
 
