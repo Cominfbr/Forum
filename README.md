@@ -27,9 +27,7 @@ Este fórum é baseado em 3 projetos:
 # Como Participar
 
 O Github é uma ótima plataforma para código aberto, mas ele também pode ser um canal de comunicativo entre as comunidades que nele tem. O modelo usado e colocar _issues_ como local de propor perguntas, além de se encaixar para debates e discussões.<br>
-
 <br>Você quer participar? Crie uma issue e escreva suas dúvidas, dificuldades, elogios, indicações.Todas as _issues_ devem ser abertas e respondidas em pt-br.Isso pode ser um excelente canal de contribuição e discussão.<br>
-
 <br>Não se limite. Pergunte quantas vezes quiser, mas recomendamos que primeiro buscar se a solução em outros locais, caso não ache use este meio, assim evita perguntas duplicadas e confusas. Se não achar aqui, saiba que há outros fóruns como [FrontendBR](https://github.com/frontendbr/forum) ou [Training Center](https://github.com/training-center/forum) e o [BrazilJS](https://github.com/braziljs/forum), talvez tenha algum tópico lá, já estar pronto para participar aperte o Botão.
 
 <p align="center">
