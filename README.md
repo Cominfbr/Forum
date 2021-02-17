@@ -39,7 +39,7 @@ Todas as discussões são bem-vindas, se for discutir/perguntar procure formular
 
 # Vantagens para o seu perfil
 
-Seu perfil no Github mostrará quantas discussões você já respondeu, isso diz o seu engajamento na comunidade open-source, e você será lembrado nas discussões por haverá um Ranking que quem respondeu mais e foi marcada com correta.
+Seu perfil no Github mostrará quantas discussões você já respondeu, isso diz o seu engajamento na comunidade open-source, e você será lembrado nas discussões por haverá um Ranking de quem respondeu mais e foi marcada com correta.
 
 # Como receber Atualizações
 
