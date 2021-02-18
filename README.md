@@ -31,7 +31,7 @@ O Github é uma ótima plataforma para código aberto, mas ele também pode ser 
 <br>Não se limite. Pergunte quantas vezes quiser, mas recomendamos que primeiro buscar se a solução em outros locais, caso não ache use este meio, assim evita perguntas duplicadas e confusas. Se não achar aqui, saiba que há outros fóruns como [FrontendBR](https://github.com/frontendbr/forum) ou [Training Center](https://github.com/training-center/forum) e o [BrazilJS](https://github.com/braziljs/forum), talvez tenha algum tópico lá, já estar pronto para participar aperte o Botão.
 
 <p align="center">
-<a href="https://github.com/Cominfbr/forum/discussions"><img with="120" height="120" src="https://github.com/Cominfbr/forum/blob/Master/botao-quero-participar-300x173-1.png"></a> 
+<a href="https://github.com/Cominfbr/forum/discussions"><img with="120" height="120" src="https://github.com/Cominfbr/forum/blob/Master/botao-quero-participar-300x173-1.png" alt="Participe do Fórum"></a> 
 </p>
 
 # Discussões
