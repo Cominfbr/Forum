@@ -1,4 +1,7 @@
 <h1 align="center"> Fórum :speech_balloon: </h1>
+<p align="center">
+<img with="400" height="400" src="https://github.com/Cominfbr/forum/blob/Master/20210218_204147.png" alt="Dê uma olhada no nosso Fórum">
+</p>
 
 ## Sumário
 
