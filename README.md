@@ -28,6 +28,8 @@ Este fórum é baseado em 3 projetos:
 - [Training-Center/forum](https://github.com/training-center/forum)
 - [BrazilJS/forum](https://github.com/braziljs/forum)
 
+
+
 # Como Participar
 
 O Github é uma ótima plataforma para código aberto, mas ele também pode ser um canal de comunicativo entre as comunidades que nele tem. O modelo usado e colocar _issues_ como local de propor perguntas, além de se encaixar para debates e discussões.<br>
@@ -37,6 +39,7 @@ O Github é uma ótima plataforma para código aberto, mas ele também pode ser 
 <p align="center">
 <a href="https://github.com/Cominfbr/forum/discussions"><img with="120" height="120" src="https://github.com/Cominfbr/forum/blob/Master/botao-quero-participar-300x173-1.png" alt="Participe do Fórum"></a> 
 </p>
+
 
 # Discussões
 
@@ -53,12 +56,13 @@ Quer receber atualizações por email deste fórum? É simples basta Clicar em *
 
 ---
 
-<img align="center" with="400" height="380" src="https://github.com/Cominfbr/forum/blob/Master/20210217_104331.jpg">
+<img align="left" with="400" height="380" src="https://github.com/Cominfbr/forum/blob/Master/20210217_104331.jpg">
 
 
 
-<img align="center" with="400" height="380" src="https://github.com/Cominfbr/forum/blob/Master/20210217_104426.jpg">
+<img align="right" with="400" height="380" src="https://github.com/Cominfbr/forum/blob/Master/20210217_104426.jpg">
 
+---
 # Código de Conduta
 
 Nosso objetivo é ajudar as pessoas que tem dificuldades, ajuda-las a compreender o que elas tem em relação a dificuldades.
