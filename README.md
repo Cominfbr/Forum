@@ -1,5 +1,5 @@
 <p align="center">
-<img with="330" height="320" src="https://github.com/Cominfbr/forum/blob/Master/20210218_204147.png" alt="Dê uma olhada no nosso Fórum">
+<img with="340" height="300" src="https://github.com/Cominfbr/forum/blob/Master/20210218_204147.png" alt="Dê uma olhada no nosso Fórum">
 </p>
 
 <h1 align="center"> Fórum </h1>
