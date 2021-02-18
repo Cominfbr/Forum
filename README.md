@@ -50,6 +50,9 @@ Seu perfil no Github mostrará quantas discussões você já respondeu, isso diz
 # Como receber Atualizações
 
 Quer receber atualizações por email deste fórum? É simples basta Clicar em *Watch*, e depois em _Customs_ e marcar opções de discussões. Assim como mostram as imagens:
+
+---
+
 <img align="center" with="400" height="380" src="https://github.com/Cominfbr/forum/blob/Master/20210217_104331.jpg">
 
 ---
