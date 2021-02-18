@@ -61,6 +61,6 @@ Nosso objetivo é ajudar as pessoas que tem dificuldades, ajuda-las a compreende
 ---
 ## Licença
 
-[GNU General Public](https://github.com/Cominfbr/forum/blob/Master/LICENSE) - © 2020 - CominfBR 
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [GNU General Public](https://github.com/Cominfbr/forum/blob/Master/LICENSE) para obter detalhes.- © 2020 - CominfBR 
 
 _PS:esta atrás de mais informações.Confira o arquivo [Informações.md](https://github.com/Cominfbr/forum/blob/Master/Informa%C3%A7%C3%B5es.md)_
