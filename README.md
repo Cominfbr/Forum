@@ -56,9 +56,9 @@ Quer receber atualizações por email deste fórum? É simples basta Clicar em *
 
 ---
 
-<img align="center" with="410" height="380" src="https://github.com/Cominfbr/forum/blob/Master/20210217_104331.jpg">
+<img align="center" with="410" height="390" src="https://github.com/Cominfbr/forum/blob/Master/20210218_210739.jpg">
 
-<img align="center" with="410" height="380" src="https://github.com/Cominfbr/forum/blob/Master/20210217_104426.jpg">
+<img align="center" with="410" height="390" src="https://github.com/Cominfbr/forum/blob/Master/20210218_210853.jpg">
 
 ---
 # Código de Conduta
