@@ -72,6 +72,7 @@ Nosso objetivo é ajudar as pessoas que tem dificuldades, ajuda-las a compreende
 ---
 ## Licença
 
-Este projeto está licenciado sob a Licença  GPL-3.0 License - consulte o arquivo [GNU General Public](https://github.com/Cominfbr/forum/blob/Master/LICENSE) para obter detalhes. 2020 - CominfBR® 
+Fórum © <a href="https://cominfbr.cf/">Cominfbr</a> 2018-2021 Lançado sob a <a href="https://github.com/Cominfbr/forum/blob/master/LICENSE">Licença  GPL-3.0</a>. De autoria e manutenção de Carlos Vítor com a ajuda de <a href="https://github.com/Cominfbr/forum/pulse">colaboradores</a>.
+> Github: <a href="github.com/cominfbr">@Cominfbr</a> • Twitter: <a href="twitter.com/cominfbr">@Cominfbr</a> • LinkedIn: <a href="linkedin.com/company/cominfbr">Cominf-br</a>
 
 _PS:Esta atrás de mais informações de como contribuir?Confira o arquivo [Informações.md](Informa%C3%A7%C3%B5es.md)_
